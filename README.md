@@ -1,5 +1,6 @@
 # Git Training
 
+// ajout de gh token
 Bienvenue dans ce repository de formation Git ! Ce projet vous permet de vous entraîner aux principales commandes de Git.
 
 ## Objectifs
